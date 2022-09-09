@@ -6,7 +6,7 @@
 
 <script setup>
 import { ref } from 'vue'
-import Button from '../elements/Button.vue'
+import Button from '@/elements/Button.vue'
 
 const count = ref(0)
 </script>
